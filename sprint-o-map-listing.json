@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tartu",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/Sprint_orienteering_map_Ropka_Tartu_Estonia_cartography_map.jpg?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Mark Puusepp, 2017",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/lookup.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Jyrki Leskela, 2024"
+    }
+]
