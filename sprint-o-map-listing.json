@@ -6,6 +6,17 @@
          "map-credits": "Mark Puusepp, 2017",
          "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/lookup.png?raw=true",
          "lookup-png-license": "CC BY-SA 4.0 Deed",
-         "lookup-png-credits": "Jyrki Leskela, 2024"
+         "lookup-png-credits": "Jyrki Leskela, 2024",
+         "meters-per-pixel": 1.2
+    },
+    {
+        "name": "Fantasy",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/FantasySprintMap.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Jyrki Leskelä, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/fantasylookup.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Jyrki Leskela, 2024",
+         "meters-per-pixel": 0.5
     }
 ]
