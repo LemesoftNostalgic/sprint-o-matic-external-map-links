@@ -10,6 +10,16 @@
          "meters-per-pixel": 1.2
     },
     {
+        "name": "Bygholm",
+        "map-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orienteringskort_bygholm_2005.PNG/1280px-Orienteringskort_bygholm_2005.PNG",
+        "map-license": "CC BY-SA 3.0 Deed",
+         "map-credits": "Horsens Orienteringsklub, 2006",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/bygholm-lookup.png?raw=true",
+         "lookup-png-license": "CC BY-SA 3.0 Deed",
+         "lookup-png-credits": "Jyrki Leskela, 2024",
+         "meters-per-pixel": 2.6
+    },
+    {
         "name": "Fantasy",
         "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/FantasySprintMap.png?raw=true",
         "map-license": "CC BY-SA 4.0 Deed",
