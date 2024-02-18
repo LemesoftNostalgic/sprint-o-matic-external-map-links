@@ -1,7 +1,7 @@
 [
     {
         "name": "Tartu",
-        "map-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sprint_orienteering_map_Ropka_Tartu_Estonia_cartography_map.jpg/1024px-Sprint_orienteering_map_Ropka_Tartu_Estonia_cartography_map.jpg",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/Sprint_orienteering_map_Ropka_Tartu_Estonia_cartography_map.jpg?raw=true",
         "map-license": "CC BY-SA 4.0 Deed",
          "map-credits": "Mark Puusepp, 2017",
          "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/lookup.png?raw=true",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Bygholm",
-        "map-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orienteringskort_bygholm_2005.PNG/1280px-Orienteringskort_bygholm_2005.PNG",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/1280px-Orienteringskort_bygholm_2005.PNG?raw=true",
         "map-license": "CC BY-SA 3.0 Deed",
          "map-credits": "Horsens Orienteringsklub, 2006",
          "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/bygholm-lookup.png?raw=true",
