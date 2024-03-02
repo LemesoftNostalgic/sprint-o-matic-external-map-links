@@ -1,1 +1,1 @@
-Try version 3.0.2! Runs smoother. Or try web version lemesoftnostalgic.github.io/sprint-o-matic.
+Try version 3.0.2! Runs smoother. Or webapp lemesoftnostalgic.github.io/sprint-o-matic.
