@@ -1,5 +1,9 @@
 [
     {
+        "team-name": "2024Events",
+        "map-listing-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-external-map-links/main/shadow-events-2024-listing.json"
+    },
+    {
         "team-name": "S.O.Matic",
         "map-listing-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-external-map-links/main/sprint-o-map-listing.json"
     }
