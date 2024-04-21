@@ -1,0 +1,68 @@
+[
+    {
+        "name": "WOC2024",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/WOC2024ve.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Sprint-O-Matic PRO, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/maskWOC2024ve.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Sprint-O-Matic PRO, 2024",
+         "meters-per-pixel": 1.0,
+         "default-zoom": 1.0
+    },
+    {
+        "name": "WOC2024",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/WMOC2024ve.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Sprint-O-Matic PRO, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/maskWMOC2024ve.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Sprint-O-Matic PRO, 2024",
+         "meters-per-pixel": 1.0,
+         "default-zoom": 1.0
+    },
+    {
+        "name": "SMSprint2024",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/SMSprint2024ve.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Sprint-O-Matic PRO, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/maskSMSprint2024ve.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Sprint-O-Matic PRO, 2024",
+         "meters-per-pixel": 1.0,
+         "default-zoom": 1.0
+    },
+    {
+        "name": "SMKnockOut2024",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/HSSMKnockOut2024ve.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Sprint-O-Matic PRO, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/maskHSSMKnockOut2024ve.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Sprint-O-Matic PRO, 2024",
+         "meters-per-pixel": 1.0,
+         "default-zoom": 1.0
+    },
+    {
+        "name": "SMSSRelay2024",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/SMSprintRel2024ve.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Sprint-O-Matic PRO, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/maskSMSprintRel2024ve.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Sprint-O-Matic PRO, 2024",
+         "meters-per-pixel": 1.0,
+         "default-zoom": 1.0
+    },
+    {
+        "name": "PohjantS2024",
+        "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/PohjantSprint2024ve.png?raw=true",
+        "map-license": "CC BY-SA 4.0 Deed",
+         "map-credits": "Sprint-O-Matic PRO, 2024",
+         "lookup-png-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/maskPohjantSprint2024ve.png?raw=true",
+         "lookup-png-license": "CC BY-SA 4.0 Deed",
+         "lookup-png-credits": "Sprint-O-Matic PRO, 2024",
+         "meters-per-pixel": 1.0,
+         "default-zoom": 1.0
+    }
+]
