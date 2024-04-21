@@ -1,0 +1,26 @@
+[
+    {
+        "name": "WOC2024",
+        "ad-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/ads/WOC2024ad.png?raw=true"
+    },
+    {
+        "name": "WMOC2024",
+        "ad-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/ads/WMOC2024ad.png?raw=true",
+    },
+    {
+        "name": "SMSprint2024",
+        "ad-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/ads/SMSprint2024ad.png?raw=true",
+    },
+    {
+        "name": "SMKnockOut2024",
+        "ad-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/ads/HSSMKnockOut2024ad.png?raw=true",
+    },
+    {
+        "name": "SMSSRelay2024",
+        "ad-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/ads/SMSprintRel2024ad.png?raw=true",
+    },
+    {
+        "name": "PohjantS2024",
+        "ad-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/ads/PohjantSprint2024ad.png?raw=true",
+    }
+]
