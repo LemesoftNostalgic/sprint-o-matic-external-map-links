@@ -11,7 +11,7 @@
          "default-zoom": 1.0
     },
     {
-        "name": "WOC2024",
+        "name": "WMOC2024",
         "map-url": "https://raw.githubusercontent.com/LemesoftNostalgic/sprint-o-matic-map-image-example/main/WMOC2024ve.png?raw=true",
         "map-license": "CC BY-SA 4.0 Deed",
          "map-credits": "Sprint-O-Matic PRO, 2024",
